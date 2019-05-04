@@ -1,0 +1,11 @@
+.jumbotron {
+  padding: 100px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-image: url(https://idahovirtualreality.com/wp-content/uploads/2017/06/Google-Books.png);
+  color: aliceblue;
+  
+  background-repeat: no-repeat;
+  background-position: center;
+  color:lightgoldenrodyellow
+ 
+}
